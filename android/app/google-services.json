@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "268460341201",
+    "firebase_url": "https://lawguide-b33d4.firebaseio.com",
+    "project_id": "lawguide-b33d4",
+    "storage_bucket": "lawguide-b33d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268460341201:android:2d324188db1b59ddb512f0",
+        "android_client_info": {
+          "package_name": "com.example.law_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268460341201-a4oifeffekujst3qr290f8mguqele8m5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.law_guide",
+            "certificate_hash": "676897430bab84a4ad6101980caca19d5e6b0dd2"
+          }
+        },
+        {
+          "client_id": "268460341201-27v6ccdkcsdgtsukcjqufo32uo9hg782.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYqVV6fcoTc3Ni7-wgpfyFQpMNKsEyHjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268460341201-27v6ccdkcsdgtsukcjqufo32uo9hg782.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
